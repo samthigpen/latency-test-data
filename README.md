@@ -1,4 +1,4 @@
 latency-test-data
 =================
 
-results of latency tests on PC hardware
+results of real-time latency tests on PC hardware
